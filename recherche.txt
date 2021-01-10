@@ -1,0 +1,3 @@
+https://edu-chdid.odoo.com/web?#action=207&model=stock.picking.type&view_type=kanban&cids=&menu_id=101
+
+https://edu-chdid.odoo.com/web?#action=207&model=stock.picking.type&view_type=kanban&cids=&menu_id=101
